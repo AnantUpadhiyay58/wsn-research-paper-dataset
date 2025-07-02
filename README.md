@@ -13,10 +13,10 @@ The repository includes the following CSV files:
   Original WSN data including sensor node characteristics, types, and deployment attributes.
 
 - **`wsn_test_data_preprocessed.csv`**  
-  Preprocessed data used for testing the IDS and routing algorithms.
+  Preprocessed data used for testing routing algorithms.
 
 - **`wsn_train_data_preprocessed.csv`**  
-  Cleaned and normalized dataset used to train machine learning and deep learning models.
+  Cleaned and normalized dataset.
 
 # Applications
 
